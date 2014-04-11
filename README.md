@@ -4,5 +4,8 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/)
 ### Screenshot
 
 <p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
+  <img src="tile-sets/vdp/logo-site.png" alt="Screenshot"/>
+</p>
+<p align="center">
+  <img src="img/ScreenShot.png" alt="Screenshot"/>
 </p>
